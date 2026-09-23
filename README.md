@@ -2,8 +2,7 @@
 
 Aquest repo conté una prova de repos a github.
 
----
-### Headers
+## Headers
 
 # h1
 ## h2
@@ -12,8 +11,7 @@ Aquest repo conté una prova de repos a github.
 ##### h5
 ###### h6
 
----
-### Llista
+## Llista
 
   * Això
   * és
@@ -22,8 +20,7 @@ Aquest repo conté una prova de repos a github.
   * molt
   * curta
 
----
-### Llista numerada
+## Llista numerada
 
   1. Això
   2. és 
